@@ -37,4 +37,15 @@ For detailed instructions on how to use the app and format your data, please see
 3. **Important:** Run the files by double-clicking them in your folder (avoid running via IDLE to prevent clipboard issues).
 
 ## ⚖️ License
+
 Published under the **GNU GPLv3** license. Free for personal use. Commercial use or resale without the author's permission is strictly prohibited.
+
+---
+
+## Support My Work ☕
+
+If you find this project useful and want to support its further development, you can buy me a coffee! Your support helps me dedicate more time to researching lottery mathematics and VATA methodologies.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg)](https://buymeacoffee.com/jasminkotraining)
+
+You can also visit my profile here: [buymeacoffee.com/jasminkotraining](https://buymeacoffee.com/jasminkotraining)
