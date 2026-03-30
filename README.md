@@ -2,6 +2,8 @@
 
 Welcome to the **VATA_Lotto** ecosystem, a specialized suite of tools designed for lottery trend analysis and strategy testing based on the unique **"Last Run"** (Recent Run) theory.
 
+Note: This project is currently in active development. If you have any questions or suggestions, please feel free to open an "Issue" here on GitHub.
+
 ## 🧠 The Philosophy
 Traditional lottery systems often fail because they rely solely on the "Law of Large Numbers." **VATA_Lotto** operates on a different principle: The rhythm of the immediate past. We focus on whether a current streak (Hit or Skip) is likely to **Continue** or **Break** based on its own historical volatility and trend.
 
@@ -37,15 +39,4 @@ For detailed instructions on how to use the app and format your data, please see
 3. **Important:** Run the files by double-clicking them in your folder (avoid running via IDLE to prevent clipboard issues).
 
 ## ⚖️ License
-
 Published under the **GNU GPLv3** license. Free for personal use. Commercial use or resale without the author's permission is strictly prohibited.
-
----
-
-## Support My Work ☕
-
-If you find this project useful and want to support its further development, you can buy me a coffee! Your support helps me dedicate more time to researching lottery mathematics and VATA methodologies.
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg)](https://buymeacoffee.com/jasminkotraining)
-
-You can also visit my profile here: [buymeacoffee.com/jasminkotraining](https://buymeacoffee.com/jasminkotraining)
