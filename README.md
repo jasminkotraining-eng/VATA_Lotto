@@ -2,7 +2,15 @@
 
 Welcome to the **VATA_Lotto** ecosystem, a specialized suite of tools designed for lottery trend analysis and strategy testing based on the unique **"Last Run"** (Recent Run) theory.
 
-Note: This project is currently in active development. If you have any questions or suggestions, please feel free to open an "Issue" here on GitHub.
+Note: This project is currently in active development. It has developed only four filters as means to test the VATA method, other wheels can be developed later. 
+
+VATA-Lotto is designed for the strategic player. > It doesn't just build a random wheel; it takes your expert filters and finds the most efficient way to cover only the winning combinations that survived your analysis.
+
+Important: For Optimization Logic, Pool Reduction VATA-Lotto uses a Pool Reduction Heuristic. Unlike a standard mathematical wheel (which covers all combinations of C(N,K)), this engine optimizes the coverage of your filtered candidate pool.
+
+If you apply filters (Sums, Patterns, etc.), the engine will find the minimum number of tickets needed to ensure that every remaining combination in your pool is covered by at least 'T' matches. This makes it a powerful tool for practical play rather than just theoretical wheeling.
+
+If you have any questions or suggestions, please feel free to open an "Issue" here on GitHub.
 
 ## 🧠 The Philosophy
 Traditional lottery systems often fail because they rely solely on the "Law of Large Numbers." **VATA_Lotto** operates on a different principle: The rhythm of the immediate past. We focus on whether a current streak (Hit or Skip) is likely to **Continue** or **Break** based on its own historical volatility and trend.
